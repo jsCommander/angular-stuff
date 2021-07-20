@@ -1,0 +1,20 @@
+{
+  "name": "@angular-stuff/let-directive",
+  "version": "0.0.3",
+  "keywords": [
+    "angular",
+    "directive",
+    "let"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsCommander/angular-stuff/tree/master/libs/let-directive"
+  },
+  "peerDependencies": {
+    "@angular/common": "^12.0.0",
+    "@angular/core": "^12.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  }
+}
